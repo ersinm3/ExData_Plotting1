@@ -33,8 +33,8 @@ par(mfcol=c(2, 2))
 
 ## First plot 2
 with(e, {
-    plot(datetime, Global_active_power/1000, type="n", ylab="Global Active Power", xlab = "")
-    lines(datetime, Global_active_power/1000, type="l")
+    plot(datetime, Global_active_power, type="n", ylab="Global Active Power", xlab = "")
+    lines(datetime, Global_active_power, type="l")
     
     ## then do plot 3
     plot(datetime, Sub_metering_1, type="n", ylab="Energy Sub Metering", xlab = "")

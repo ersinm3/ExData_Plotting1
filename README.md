@@ -1,3 +1,7 @@
+## Week 1 Project
+The assignment plots turned in mimics the plots shown at the bottom of
+this file.
+
 ## Introduction
 
 This assignment uses data from
@@ -91,7 +95,8 @@ date. There should be four PNG files and four R code files.
 
 The four plots that you will need to construct are shown below. 
 
-
+<b>The plots turned in mimics these plots exactly, i.e with same
+labels, axes, etc.</b>
 ### Plot 1
 
 
